@@ -1,5 +1,5 @@
 const WallPaperPage = () => {
-  return <div className="h-full">wallpaper page</div>;
-}
+  return <div className="h-full">giay dan tuong</div>;
+};
 
 export default WallPaperPage;
